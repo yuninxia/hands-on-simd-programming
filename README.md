@@ -8,6 +8,9 @@
 
 This repository demonstrates practical SIMD (Single Instruction, Multiple Data) programming in C++ through progressive examples. It focuses on performance-critical techniques that leverage parallel data processing capabilities of modern CPUs.
 
+![Intel ISA Families and Features](./assets/intel_isa_families.jpeg)
+**Image Credits: Longhorn**
+
 | Feature | Description |
 |---------|-------------|
 | **Target Audience** | Beginner to intermediate C++ programmers |
